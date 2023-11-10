@@ -29,7 +29,7 @@ Follow these steps to get started with the "Virtual Tutoring" application:
 1. Clone the repository to your local machine.
 2. Install the required dependencies.
 3. Create a database, named "VirtualTutorDB" in your SQL server.
-4. Execute a migration and update process for the database.
+4. Execute a migration and update processes for the database.
 5. In the clonned repository, configure the OpenAI API KEY.
 6. Run the application by starting instances of "UFAR.TUTOR.API" and "UFAR.TUTOR.UI".
 
