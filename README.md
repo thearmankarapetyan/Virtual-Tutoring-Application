@@ -33,7 +33,7 @@ Follow these steps to get started with the "Virtual Tutoring" application:
 
 ## Usage
 
-To use the "Virtual Tutoring" application, simply hit the "Start" button it in your "Visual Studio" IDE and start interacting with the virtual tutor. Ask questions and receive real-time responses with explanations.
+To use the "Virtual Tutoring" application, simply hit the "Start" button it in your "Visual Studio" IDE and start interacting with the virtual tutor. Ask academic related questions and receive real-time responses with explanations.
 
 ## Contributing
 
