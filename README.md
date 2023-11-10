@@ -10,7 +10,7 @@
 
 ## Overview
 
-This documentation provides information about the "Virtual Tutoring" application, which utilizes OpenAI's API to create a virtual tutor. This tool allows users to receive answers and explanations for their questions.
+This documentation provides information about the "Virtual Tutoring" application, which utilizes OpenAI's API to create a virtual tutor. This tool allows users to receive answers and explanations for their academic questions.
 
 ## Description
 
@@ -28,12 +28,14 @@ Follow these steps to get started with the "Virtual Tutoring" application:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies.
-3. Configure the OpenAI API credentials.
-4. Run the application.
+3. Create a database, named "VirtualTutorDB" in your SQL server.
+4. Execute a migration and update process for the database.
+5. In the clonned repository, configure the OpenAI API KEY.
+6. Run the application by starting instances of "UFAR.TUTOR.API" and "UFAR.TUTOR.UI".
 
 ## Usage
 
-To use the "Virtual Tutoring" application, simply hit the "Start" button it in your "Visual Studio" IDE and start interacting with the virtual tutor. Ask academic related questions and receive real-time responses with explanations.
+To use the "Virtual Tutoring" application, simply hit the run the project in your "Visual Studio" IDE and start interacting with the virtual tutor. Ask academic related questions and receive real-time responses with elaborative explanations.
 
 ## Contributing
 
