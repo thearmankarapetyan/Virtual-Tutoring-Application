@@ -1,0 +1,18 @@
+﻿<div class="top-row ps-3 navbar navbar-dark" style="background-color: #007acc;">
+    <div class="container-fluid" style="border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+        <a class="navbar-brand" href="#">Virtual Tutor</a>
+    </div>
+</div>
+
+
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
